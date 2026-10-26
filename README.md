@@ -1,4 +1,4 @@
-# Crack Detection on Concrete Surfaces (SDNET2018)
+# CrackSense
 
 A binary classifier that labels 256×256 px concrete tiles as **cracked** or **non-cracked**, built by fine-tuning an ImageNet-pretrained EfficientNet-B0.
 
